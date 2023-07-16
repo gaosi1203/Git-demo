@@ -1,3 +1,4 @@
+hello git!fixed master test
 hello git!fixed
 hello git!fixed
 hello git!fixed
@@ -5,6 +6,5 @@ hello git!fixed
 hello git!fixed
 hello git!fixed
 hello git!fixed
-hello git!fixed
-hello git!fixed
+hello 
 hello git!fixed
