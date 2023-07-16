@@ -6,5 +6,7 @@ hello git!fixed
 hello git!fixed
 hello git!fixed
 hello git!fixed
-hello 
 hello git!fixed
+hello git!fixed
+hello git!fixed
+hello git!fixed hot-fix test
